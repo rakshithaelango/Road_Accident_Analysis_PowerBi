@@ -18,5 +18,9 @@
  * Data modelling
  * Dashboard creation
 
+## DATA VISUAL: 
+
+![1693649949200](https://github.com/rakshithaelango/Road_Accident_Analysis_PowerBi/assets/116090323/2debec17-a419-4091-bc6e-19363b7da4a8)
+
 ## Dataset Link 
 https://docs.google.com/spreadsheets/d/1M90GQkLHXztd-To1sMaXlk-8w8t_Xznd/edit?usp=drivesdk&ouid=105689968478743994657&rtpof=true&sd=true
