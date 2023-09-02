@@ -18,7 +18,7 @@
  * Data modelling
  * Dashboard creation
 
-## DATA VISUAL: 
+## DASHBOARD VISUAL: 
 
 ![1693649949200](https://github.com/rakshithaelango/Road_Accident_Analysis_PowerBi/assets/116090323/2debec17-a419-4091-bc6e-19363b7da4a8)
 
